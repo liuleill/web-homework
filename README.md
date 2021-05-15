@@ -1,6 +1,6 @@
 ## 一、项目描述
 
-- [**React 版本请点击这里查看，全新界面超级好看！！！(o ﾟ v ﾟ)ノ**](https://gitee.com/MTrun/react-big-screen)
+- [**React 版本请点击这里查看，全新界面超级好看！！！(o ﾟ v ﾟ)ノ**]
 - 一个基于 Vue、Datav、Echart 框架的 " **数据大屏项目** "，通过 Vue 组件实现数据动态刷新渲染，内部图表可实现自由替换。部分图表使用 DataV 自带组件，可进行更改，详情请点击下方 DataV 文档。
 - 项目需要全屏展示（按 F11）。
 - 项目部分区域使用了全局注册方式，增加了打包体积，在实际运用中请使用 **按需引入**。
@@ -8,15 +8,6 @@
 - 项目环境：Vue-cli-3.0、DataV-2.7.3、Echarts-4.6.0(如果5.x版本有问题，请切换到4.x版本)、Webpack-4.0、Npm-6.13、Node-v12.16。
 - 请拉取 master 分支的代码，master-vue3 是正在开发的 vue3.0 版本，尚未完工....
 
-友情链接：
-
-1.  [Vue 官方文档](https://cn.vuejs.org/v2/guide/instance.html)
-2.  [DataV 官方文档](http://datav.jiaminghi.com/guide/)
-3.  [echarts 实例](https://echarts.apache.org/examples/zh/index.html)，[echarts API 文档](https://echarts.apache.org/zh/api.html#echarts)
-4.  [项目 gitee 地址（国内速度快）](https://gitee.com/MTrun/big-screen-vue-datav)
-
-项目展示
-![项目展示](https://images.gitee.com/uploads/images/2020/1208/183608_b893a510_4964818.gif "20201208_221020.gif")
 
 ## 二、主要文件介绍
 
@@ -203,7 +194,3 @@ Vue.prototype.$http = axios.create({
 5. vue-awesome 改成按需引入的方式。
 6. 封装渲染函数，抽离了数据使逻辑更加清晰。
 7. 新增地图组件，并添加自动轮播功能
-
-## 五、其余
-
-这个项目是个人的作品，难免会有问题和 BUG，如果有问题请进行评论，我也会尽力去更新，自己也在前端学习的路上，欢迎交流，非常感谢！
