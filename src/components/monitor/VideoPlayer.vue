@@ -72,9 +72,9 @@ export default {
    display:flex;
    height:100%;
    font-size:14px;
-   text-align:center;
    justify-content: center;
    align-items:center;
+   text-align:center;
   }
  }
 </style>

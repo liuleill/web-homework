@@ -11,7 +11,7 @@
         <!-- <dv-capsule-chart :config="config" style="width: 100%;height:2rem" /> -->
         <!-- ---------------------------------------- -->
         <!-- <centreRight2Chart1 /> -->
-          <video width="100%" height="398" autoplay="autoplay" controls="controls">
+          <video width="100%" height="280" autoplay="autoplay" controls="controls">
             <!-- 视频 -->
           <source src="../assets/videos/dp-video.mp4" type="video/mp4">
           <source src="../assets/videos/dp-video.mp4" type="video/ogg">
